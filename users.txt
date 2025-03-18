@@ -1,0 +1,2 @@
+a,a,a,false,university,08:00,23:00
+b,b,b,true,university,06:00,23:00
